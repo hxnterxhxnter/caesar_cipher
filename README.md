@@ -5,3 +5,5 @@ simple ascii-based caesar cipher in python
 - Can be used for understanding the caesar algorithm
 
 good luck, have fun ;)
+
+P.S. Would be nice if you send some improvements! :D
